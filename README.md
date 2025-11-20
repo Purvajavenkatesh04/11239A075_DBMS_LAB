@@ -1,2 +1,2 @@
-# 11239A090_DBMS_LAB
-This has experiments related to DBMS.
+# 11239A075_DBMS_LAB
+
